@@ -21,4 +21,8 @@ A single .sql file containing your:
 CREATE TABLE statements
 
 
+
+![clinicdb drawio](https://github.com/user-attachments/assets/364a2506-3fcd-4a41-90c3-d7ecefd2083f)
+
+
 Only one .sql file (well-commented)
