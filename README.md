@@ -26,5 +26,6 @@ Only one .sql file (well-commented)
 
 
 
-![clinicdb drawio (1)](https://github.com/user-attachments/assets/05c2c08d-2641-4a4e-9814-f4f153725c95)
+![clinicdb drawio (2)](https://github.com/user-attachments/assets/29eecf89-99db-4334-bbd6-b9294ad1a057)
+
 
