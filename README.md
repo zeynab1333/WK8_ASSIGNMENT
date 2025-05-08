@@ -1,4 +1,6 @@
-Question 1: Build a Complete Database Management System
+Description
+
+Build a Complete Database Management System
 Objective:
 Design and implement a full-featured database using only MySQL.
 
@@ -20,9 +22,9 @@ A single .sql file containing your:
 
 CREATE TABLE statements
 
-
-
-![clinicdb drawio](https://github.com/user-attachments/assets/364a2506-3fcd-4a41-90c3-d7ecefd2083f)
-
-
 Only one .sql file (well-commented)
+
+
+
+![clinicdb drawio (1)](https://github.com/user-attachments/assets/05c2c08d-2641-4a4e-9814-f4f153725c95)
+
